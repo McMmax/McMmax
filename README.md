@@ -73,7 +73,7 @@ All of my experience stems from a fundamental obsession with building and unders
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
       <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
       <br/><br/>
-      <b>Hardware, FPGA & Low-Level</b><br/>
+      <b>Hardware & FPGA </b><br/>
       <img src="https://img.shields.io/badge/AMD_Vivado-ED1C24?style=flat-square&logo=amd&logoColor=white" alt="AMD Vivado" />
       <img src="https://img.shields.io/badge/PCIe_/_DMA_Firmware-18181B?style=flat-square&logo=micro-strategy&logoColor=00FF9D" alt="PCIe DMA" />
       <img src="https://img.shields.io/badge/Reverse_Engineering-212121?style=flat-square&logo=wireshark&logoColor=white" alt="Reverse Engineering" />
