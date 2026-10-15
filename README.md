@@ -26,7 +26,7 @@ My journey started at age 8 when I was gifted a Raspberry Pi. I began by wiring 
 
 When competitive Minecraft was overrun by a rampant cheating problem, I took it upon myself to combat it. In doing so, I learned both sides of the coin—building server-side anticheats while studying client-side bypasses and injection mechanics. Later, I dove deep into Direct Memory Access (DMA) hardware, writing custom firmware to emulate authentic PCIe devices.
 
-All of my experience stems from a fundamental obsession with building and understanding systems from the ground up, spanning cybersecurity, server administration, reverse engineering, low-level networking, and cloud infrastructure.
+All of my experience stems from a fundamental obsession with building and understanding systems from the ground up, spanning cybersecurity, server administration, reverse engineering, networking, and cloud infrastructure.
 
 ---
 
