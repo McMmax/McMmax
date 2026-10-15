@@ -1,8 +1,8 @@
 <div align="center">
 
-# Maddox McNary (McMMax)
+# Maddox McNary
 
-### *Systems Architect · Distributed Game Infrastructure · Real-Time Speech & AI Pipelines*
+### *Software Engineer · Networking · Game Development · Reverse Engineering*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maddox-mcnary-3626272a9" target="_blank">
@@ -28,12 +28,13 @@
 
 ## ⚡ About Me
 
-I am a systems and platform engineer focused on high-throughput backend architecture, native spatial engines, and real-time AI/speech pipelines. As the founder of **Terrorify Studios** and **Minemares**, I design low-latency distributed networks that scale to thousands of concurrent users with zero-copy dataflow, mechanical sympathy, and bounded memory footprints.
+I am a 21-year-old software engineer specialized in networking, game development, and reverse engineering.
 
-My engineering philosophy prioritizes:
-- **Zero-overhead performance:** Direct C-ABI FFI bindings, off-heap arena allocators, and minimal serialization bottlenecks.
-- **Resilient distributed architectures:** Event-driven multi-instance session IPC, SpacetimeDB delta-log replication, and distributed tracing.
-- **Autonomous AI orchestration:** Real-time multi-agent workflows, native Model Context Protocol (MCP) servers, and streaming neural speech pipelines.
+My journey started at age 8 when I was gifted a Raspberry Pi. I began by wiring circuits, programming lights to toggle on and off, and controlling robotic limbs and motors. When Minecraft 1.7.9 released, I bought my first copy and immediately fell in love with the sandbox environment. Creating servers quickly became my passion, so I began reverse-engineering obfuscated Minecraft binaries to understand how the engine, packet protocols, and game loop operated under the hood. Ever since, I have worked across the space, collaborating with developers and server networks to continuously sharpen my technical depth.
+
+When competitive Minecraft was overrun by a rampant cheating problem, I took it upon myself to combat it. In doing so, I learned both sides of the coin—building server-side anticheats while studying client-side bypasses and injection mechanics. Later, I dove deep into Direct Memory Access (DMA) hardware, writing custom firmware to emulate authentic PCIe devices.
+
+All of my experience stems from a fundamental obsession with building and understanding systems from the ground up, spanning cybersecurity, server administration, reverse engineering, low-level networking, and cloud infrastructure.
 
 ---
 
@@ -52,13 +53,11 @@ My engineering philosophy prioritizes:
 
 ---
 
-## 📊 GitHub Language & Activity Telemetry
+## 📊 Top Languages
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McMmax&layout=compact&theme=transparent" alt="Top Languages" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=McMmax&show_icons=true&theme=transparent" alt="GitHub Stats" />
 
 </div>
 
@@ -76,8 +75,7 @@ Infrastructure    │ Docker · Linux (Arch / Debian) · Cloudflare Workers · t
 
 ---
 
-<div align="center">
+## 🌐 Ventures & Platforms
 
-<sub>Built with precision · Crafted by <a href="https://github.com/McMmax">McMMax</a></sub>
-
-</div>
+- **[Terrorify Studios](https://terrorify.dev)** — Specialized game infrastructure and high-performance server architectures.
+- **[Minemares](https://minemares.com)** — Competitive Minecraft network and community ecosystem.
