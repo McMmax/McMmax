@@ -8,15 +8,7 @@
   <a href="https://www.linkedin.com/in/maddox-mcnary-3626272a9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://terrorify.dev" target="_blank">
-    <img src="https://img.shields.io/badge/terrorify.dev-18181B?style=for-the-badge&logo=safari&logoColor=00FF9D" alt="terrorify.dev" />
-  </a>
-  &nbsp;
-  <a href="https://minemares.com" target="_blank">
-    <img src="https://img.shields.io/badge/minemares.com-8B0000?style=for-the-badge&logo=minecraft&logoColor=white" alt="minemares.com" />
-  </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://x.com/ybfmax_" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
@@ -53,29 +45,35 @@ All of my experience stems from a fundamental obsession with building and unders
 
 ---
 
-## 📊 Top Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McMmax&layout=compact&theme=transparent" alt="Top Languages" />
-
-</div>
-
----
-
-## 💻 Tech Stack & Tooling
-
-```
-Core Languages    │ Rust · Python · Java (21+) · Kotlin · TypeScript · C++ · C# · Go
-Backend & Systems │ Minestom · SpacetimeDB · FastAPI · WebSockets · Netty · Tokio · asyncio
-AI & ML Pipeline  │ NVIDIA NeMo · Whisper · PyTorch · FastConformer · Hugging Face · MCP
-Data & Storage    │ PostgreSQL · SQLite · Redis · Btrfs / ZFS · Protocol Buffers
-Infrastructure    │ Docker · Linux (Arch / Debian) · Cloudflare Workers · tmux · Git
-```
-
----
-
-## 🌐 Ventures & Platforms
-
-- **[Terrorify Studios](https://terrorify.dev)** — Specialized game infrastructure and high-performance server architectures.
-- **[Minemares](https://minemares.com)** — Competitive Minecraft network and community ecosystem.
+<table width="100%">
+  <tr>
+    <td width="48%" valign="top" align="center">
+      <h3>📊 Top Languages</h3>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McMmax&layout=compact&theme=transparent" alt="Top Languages" width="100%" />
+    </td>
+    <td width="52%" valign="top">
+      <h3>💻 Tech Stack & Tooling</h3>
+      <p>
+        <b>Core Languages:</b><br/>
+        <code>Rust</code> · <code>Python</code> · <code>Java (21+)</code> · <code>Kotlin</code> · <code>C++</code> · <code>TypeScript</code> · <code>C#</code> · <code>Go</code>
+      </p>
+      <p>
+        <b>Backend & Systems:</b><br/>
+        <code>Minestom</code> · <code>SpacetimeDB</code> · <code>FastAPI</code> · <code>WebSockets</code> · <code>Netty</code> · <code>Tokio</code> · <code>asyncio</code>
+      </p>
+      <p>
+        <b>AI & Speech Pipeline:</b><br/>
+        <code>NVIDIA NeMo</code> · <code>Whisper</code> · <code>PyTorch</code> · <code>FastConformer</code> · <code>Hugging Face</code> · <code>MCP</code>
+      </p>
+      <p>
+        <b>Data & Storage:</b><br/>
+        <code>PostgreSQL</code> · <code>SQLite</code> · <code>Redis</code> · <code>Btrfs / ZFS</code> · <code>Protocol Buffers</code>
+      </p>
+      <p>
+        <b>Infrastructure & Low-Level:</b><br/>
+        <code>Docker</code> · <code>Linux (Arch / Debian)</code> · <code>PCIe / DMA Firmware</code> · <code>Cloudflare Workers</code> · <code>Git</code>
+      </p>
+    </td>
+  </tr>
+</table>
